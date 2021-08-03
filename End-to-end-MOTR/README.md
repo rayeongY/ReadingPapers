@@ -4,7 +4,6 @@
 
 > Official Code -> https://github.com/megvii-model/MOTR
 
-___
 
 ## 용어 해설
 
@@ -73,3 +72,6 @@ ___
     + MOT를 위한 Transformer 기반 프레임워크인건 동일함
     + 그러나 **TransTrack**은 그저 detection과 tracking을 결합시킨 형태(?)
     + **TrackFormer**도 fully E2E 프레임워크가 아니며, NMS같은 작업이 필요함
+
+
+## 
